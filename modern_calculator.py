@@ -129,6 +129,7 @@ buttons = [
     ("=", 4, 2, "Accent.Calc.TButton", calculate),
 ]
 
+
 for i in range(5):
     btn_frame.rowconfigure(i, weight=1)
 for j in range(4):
